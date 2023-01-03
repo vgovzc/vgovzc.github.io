@@ -1,10 +1,10 @@
 {
-  "name": "张三",
-  "short_name": "张三",
+  "name": "apwx",
+  "short_name": "APWX",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "张三的个人主页",
+  "description": "APWX的个人主页",
   "theme_color": "blue",
   "icons": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+      "url": "https://www.apwx.com"
     }
   ]
 }
